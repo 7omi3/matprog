@@ -46,3 +46,5 @@ A sötét háttér és a sűrűségfüggő színezés segít kiemelni a kialakul
 
 Ezen kóddal készített videó:  https://youtube.com/shorts/-CbYYQ1g2WE
 Másik kóddal készített videó: https://www.youtube.com/watch?v=tPBjRBRBv8k
+
+Források: https://arborjs.org/docs/barnes-hut
