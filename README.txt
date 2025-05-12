@@ -44,3 +44,5 @@ ffmpeg -framerate 30 -i nbody_szimulacio_kimenet/frame_%05d.png -c:v libx264 -pi
 
 A sötét háttér és a sűrűségfüggő színezés segít kiemelni a kialakuló struktúrákat, például spirálkarokat vagy sűrűbb magokat.
 
+Ezen kóddal készített videó:  https://youtube.com/shorts/-CbYYQ1g2WE
+Másik kóddal készített videó: https://www.youtube.com/watch?v=tPBjRBRBv8k
